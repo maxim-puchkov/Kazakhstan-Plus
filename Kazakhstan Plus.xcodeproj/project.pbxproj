@@ -7,6 +7,77 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		843663171CA5E0DA000AB17E /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 843663161CA5E0DA000AB17E /* Reachability.m */; };
+		843A19C71CA7E6F8008A48C0 /* казахстан.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843A19C01CA7E6F8008A48C0 /* казахстан.jpg */; };
+		843A19C81CA7E6F8008A48C0 /* медеу.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843A19C11CA7E6F8008A48C0 /* медеу.jpg */; };
+		843A19C91CA7E6F8008A48C0 /* президент.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843A19C21CA7E6F8008A48C0 /* президент.jpg */; };
+		843A19CA1CA7E6F8008A48C0 /* алматы.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843A19C31CA7E6F8008A48C0 /* алматы.jpg */; };
+		843A19CB1CA7E6F8008A48C0 /* назарбаев.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843A19C41CA7E6F8008A48C0 /* назарбаев.jpg */; };
+		843A19CC1CA7E6F8008A48C0 /* барыс.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843A19C51CA7E6F8008A48C0 /* барыс.jpg */; };
+		843A19CD1CA7E6F8008A48C0 /* флаг.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843A19C61CA7E6F8008A48C0 /* флаг.jpg */; };
+		843A19CF1CA7E70A008A48C0 /* абай.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843A19CE1CA7E70A008A48C0 /* абай.jpg */; };
+		843CEF6E1CA8928600456A01 /* валиханов.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF611CA8928600456A01 /* валиханов.jpg */; };
+		843CEF6F1CA8928600456A01 /* асык.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF621CA8928600456A01 /* асык.jpg */; };
+		843CEF701CA8928600456A01 /* акын.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF631CA8928600456A01 /* акын.jpg */; };
+		843CEF711CA8928600456A01 /* жетыген.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF641CA8928600456A01 /* жетыген.jpg */; };
+		843CEF721CA8928600456A01 /* мечеть.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF651CA8928600456A01 /* мечеть.jpg */; };
+		843CEF731CA8928600456A01 /* джигит.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF661CA8928600456A01 /* джигит.jpg */; };
+		843CEF741CA8928600456A01 /* курмангазы.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF671CA8928600456A01 /* курмангазы.jpg */; };
+		843CEF751CA8928600456A01 /* байтерек.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF681CA8928600456A01 /* байтерек.jpg */; };
+		843CEF761CA8928600456A01 /* тенге.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF691CA8928600456A01 /* тенге.jpg */; };
+		843CEF771CA8928600456A01 /* акорда.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF6A1CA8928600456A01 /* акорда.jpg */; };
+		843CEF781CA8928600456A01 /* астана.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF6B1CA8928600456A01 /* астана.jpg */; };
+		843CEF791CA8928600456A01 /* байконур.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF6C1CA8928600456A01 /* байконур.jpg */; };
+		843CEF7A1CA8928600456A01 /* кумыс.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF6D1CA8928600456A01 /* кумыс.jpg */; };
+		843CEF831CA8BE3200456A01 /* каспий.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF7B1CA8BE3200456A01 /* каспий.jpg */; };
+		843CEF841CA8BE3200456A01 /* бурабай.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF7C1CA8BE3200456A01 /* бурабай.jpg */; };
+		843CEF851CA8BE3200456A01 /* алтай.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF7D1CA8BE3200456A01 /* алтай.jpg */; };
+		843CEF861CA8BE3200456A01 /* бешбармак.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF7E1CA8BE3200456A01 /* бешбармак.jpg */; };
+		843CEF871CA8BE3200456A01 /* молдагулова.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF7F1CA8BE3200456A01 /* молдагулова.jpg */; };
+		843CEF881CA8BE3200456A01 /* алатау.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF801CA8BE3200456A01 /* алатау.jpg */; };
+		843CEF891CA8BE3200456A01 /* ильин.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF811CA8BE3200456A01 /* ильин.jpg */; };
+		843CEF8A1CA8BE3200456A01 /* обсе.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF821CA8BE3200456A01 /* обсе.jpg */; };
+		843CEF971CA8C6DA00456A01 /* нуртас.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF8B1CA8C6DA00456A01 /* нуртас.jpg */; };
+		843CEF981CA8C6DA00456A01 /* гимн.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF8C1CA8C6DA00456A01 /* гимн.jpg */; };
+		843CEF991CA8C6DA00456A01 /* баурсак.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF8D1CA8C6DA00456A01 /* баурсак.jpg */; };
+		843CEF9A1CA8C6DA00456A01 /* масимов.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF8E1CA8C6DA00456A01 /* масимов.jpg */; };
+		843CEF9B1CA8C6DA00456A01 /* шельпек.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF8F1CA8C6DA00456A01 /* шельпек.jpg */; };
+		843CEF9C1CA8C6DA00456A01 /* герб.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF901CA8C6DA00456A01 /* герб.jpg */; };
+		843CEF9D1CA8C6DA00456A01 /* шалап.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF911CA8C6DA00456A01 /* шалап.jpg */; };
+		843CEF9E1CA8C6DA00456A01 /* курт.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF921CA8C6DA00456A01 /* курт.jpg */; };
+		843CEF9F1CA8C6DA00456A01 /* ахметов.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF931CA8C6DA00456A01 /* ахметов.jpg */; };
+		843CEFA01CA8C6DA00456A01 /* айран.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF941CA8C6DA00456A01 /* айран.jpg */; };
+		843CEFA11CA8C6DA00456A01 /* кеспе.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF951CA8C6DA00456A01 /* кеспе.jpg */; };
+		843CEFA21CA8C6DA00456A01 /* сорпа.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEF961CA8C6DA00456A01 /* сорпа.jpg */; };
+		843CEFAC1CA8CD9D00456A01 /* шымкент.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFA31CA8CD9D00456A01 /* шымкент.jpg */; };
+		843CEFAD1CA8CD9D00456A01 /* скот.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFA41CA8CD9D00456A01 /* скот.jpg */; };
+		843CEFAE1CA8CD9D00456A01 /* бегельдинов.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFA51CA8CD9D00456A01 /* бегельдинов.jpg */; };
+		843CEFAF1CA8CD9D00456A01 /* кунаев.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFA61CA8CD9D00456A01 /* кунаев.jpg */; };
+		843CEFB01CA8CD9D00456A01 /* маметова.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFA71CA8CD9D00456A01 /* маметова.jpg */; };
+		843CEFB11CA8CD9D00456A01 /* хан.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFA81CA8CD9D00456A01 /* хан.jpg */; };
+		843CEFB21CA8CD9D00456A01 /* чингисхан.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFA91CA8CD9D00456A01 /* чингисхан.jpg */; };
+		843CEFB31CA8CD9D00456A01 /* сейфулин.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFAA1CA8CD9D00456A01 /* сейфулин.jpg */; };
+		843CEFB41CA8CD9D00456A01 /* юрта.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFAB1CA8CD9D00456A01 /* юрта.jpg */; };
+		843CEFB61CA8CE3E00456A01 /* иманов.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFB51CA8CE3E00456A01 /* иманов.jpg */; };
+		843CEFC21CA8D2E100456A01 /* кенесары.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFB71CA8D2E100456A01 /* кенесары.jpg */; };
+		843CEFC51CA8D2E100456A01 /* кастеев.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFBA1CA8D2E100456A01 /* кастеев.jpg */; };
+		843CEFC61CA8D2E100456A01 /* шанырак.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFBB1CA8D2E100456A01 /* шанырак.jpg */; };
+		843CEFC71CA8D2E100456A01 /* кереге.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFBC1CA8D2E100456A01 /* кереге.jpg */; };
+		843CEFC91CA8D2E100456A01 /* тюбетейка.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFBE1CA8D2E100456A01 /* тюбетейка.jpg */; };
+		843CEFCA1CA8D2E100456A01 /* сатпаев.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFBF1CA8D2E100456A01 /* сатпаев.jpg */; };
+		843CEFCB1CA8D2E100456A01 /* ишим.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFC01CA8D2E100456A01 /* ишим.jpg */; };
+		843CEFCC1CA8D2E100456A01 /* арал.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFC11CA8D2E100456A01 /* арал.jpg */; };
+		843CEFD11CA8D36100456A01 /* колбин.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFCD1CA8D36100456A01 /* колбин.jpg */; };
+		843CEFD21CA8D36100456A01 /* мавзолей.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFCE1CA8D36100456A01 /* мавзолей.jpg */; };
+		843CEFD31CA8D36100456A01 /* сталин.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFCF1CA8D36100456A01 /* сталин.jpg */; };
+		843CEFD41CA8D36100456A01 /* туркестан.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFD01CA8D36100456A01 /* туркестан.jpg */; };
+		843CEFDC1CA8E01F00456A01 /* наурыз.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFD51CA8E01F00456A01 /* наурыз.jpg */; };
+		843CEFDD1CA8E01F00456A01 /* пирамида.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFD61CA8E01F00456A01 /* пирамида.jpg */; };
+		843CEFDE1CA8E01F00456A01 /* пшеница.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFD71CA8E01F00456A01 /* пшеница.jpg */; };
+		843CEFDF1CA8E01F00456A01 /* трактор.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFD81CA8E01F00456A01 /* трактор.jpg */; };
+		843CEFE01CA8E01F00456A01 /* махан.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFD91CA8E01F00456A01 /* махан.jpg */; };
+		843CEFE11CA8E01F00456A01 /* мост.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFDA1CA8E01F00456A01 /* мост.jpg */; };
+		843CEFE21CA8E01F00456A01 /* армия.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843CEFDB1CA8E01F00456A01 /* армия.jpg */; };
 		846309661C9BBB31009C8BD2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 846309651C9BBB31009C8BD2 /* main.m */; };
 		846309691C9BBB31009C8BD2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 846309681C9BBB31009C8BD2 /* AppDelegate.m */; };
 		8463096C1C9BBB31009C8BD2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8463096B1C9BBB31009C8BD2 /* ViewController.m */; };
@@ -15,6 +86,12 @@
 		846309741C9BBB31009C8BD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 846309721C9BBB31009C8BD2 /* LaunchScreen.storyboard */; };
 		8463097F1C9BBB31009C8BD2 /* Kazakhstan_PlusTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8463097E1C9BBB31009C8BD2 /* Kazakhstan_PlusTests.m */; };
 		8463098A1C9BBB31009C8BD2 /* Kazakhstan_PlusUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 846309891C9BBB31009C8BD2 /* Kazakhstan_PlusUITests.m */; };
+		8463099E1C9BBE5C009C8BD2 /* content.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8463099D1C9BBE5C009C8BD2 /* content.txt */; };
+		8463431C1CA3EAA8007ABA34 /* CustomIOS7AlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8463431B1CA3EAA8007ABA34 /* CustomIOS7AlertView.m */; };
+		847343CF1CA9E865000A84AF /* домбра.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 847343CE1CA9E865000A84AF /* домбра.jpg */; };
+		84FEB4CC1CA4A50A004F9D63 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84FEB4CB1CA4A50A004F9D63 /* StoreKit.framework */; };
+		84FEB4CF1CA4A56E004F9D63 /* StoreTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FEB4CE1CA4A56E004F9D63 /* StoreTableViewController.m */; };
+		84FEB4D11CA4A63F004F9D63 /* leftMenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 84FEB4D01CA4A63F004F9D63 /* leftMenu.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +112,78 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		843663151CA5E0DA000AB17E /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Reachability.h; path = View/Reachability.h; sourceTree = "<group>"; };
+		843663161CA5E0DA000AB17E /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Reachability.m; path = View/Reachability.m; sourceTree = "<group>"; };
+		843A19C01CA7E6F8008A48C0 /* казахстан.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "казахстан.jpg"; sourceTree = "<group>"; };
+		843A19C11CA7E6F8008A48C0 /* медеу.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "медеу.jpg"; sourceTree = "<group>"; };
+		843A19C21CA7E6F8008A48C0 /* президент.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "президент.jpg"; sourceTree = "<group>"; };
+		843A19C31CA7E6F8008A48C0 /* алматы.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "алматы.jpg"; sourceTree = "<group>"; };
+		843A19C41CA7E6F8008A48C0 /* назарбаев.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "назарбаев.jpg"; sourceTree = "<group>"; };
+		843A19C51CA7E6F8008A48C0 /* барыс.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "барыс.jpg"; sourceTree = "<group>"; };
+		843A19C61CA7E6F8008A48C0 /* флаг.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "флаг.jpg"; sourceTree = "<group>"; };
+		843A19CE1CA7E70A008A48C0 /* абай.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "абай.jpg"; sourceTree = "<group>"; };
+		843CEF611CA8928600456A01 /* валиханов.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "валиханов.jpg"; sourceTree = "<group>"; };
+		843CEF621CA8928600456A01 /* асык.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "асык.jpg"; sourceTree = "<group>"; };
+		843CEF631CA8928600456A01 /* акын.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "акын.jpg"; sourceTree = "<group>"; };
+		843CEF641CA8928600456A01 /* жетыген.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "жетыген.jpg"; sourceTree = "<group>"; };
+		843CEF651CA8928600456A01 /* мечеть.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "мечеть.jpg"; sourceTree = "<group>"; };
+		843CEF661CA8928600456A01 /* джигит.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "джигит.jpg"; sourceTree = "<group>"; };
+		843CEF671CA8928600456A01 /* курмангазы.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "курмангазы.jpg"; sourceTree = "<group>"; };
+		843CEF681CA8928600456A01 /* байтерек.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "байтерек.jpg"; sourceTree = "<group>"; };
+		843CEF691CA8928600456A01 /* тенге.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "тенге.jpg"; sourceTree = "<group>"; };
+		843CEF6A1CA8928600456A01 /* акорда.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "акорда.jpg"; sourceTree = "<group>"; };
+		843CEF6B1CA8928600456A01 /* астана.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "астана.jpg"; sourceTree = "<group>"; };
+		843CEF6C1CA8928600456A01 /* байконур.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "байконур.jpg"; sourceTree = "<group>"; };
+		843CEF6D1CA8928600456A01 /* кумыс.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "кумыс.jpg"; sourceTree = "<group>"; };
+		843CEF7B1CA8BE3200456A01 /* каспий.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "каспий.jpg"; sourceTree = "<group>"; };
+		843CEF7C1CA8BE3200456A01 /* бурабай.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "бурабай.jpg"; sourceTree = "<group>"; };
+		843CEF7D1CA8BE3200456A01 /* алтай.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "алтай.jpg"; sourceTree = "<group>"; };
+		843CEF7E1CA8BE3200456A01 /* бешбармак.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "бешбармак.jpg"; sourceTree = "<group>"; };
+		843CEF7F1CA8BE3200456A01 /* молдагулова.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "молдагулова.jpg"; sourceTree = "<group>"; };
+		843CEF801CA8BE3200456A01 /* алатау.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "алатау.jpg"; sourceTree = "<group>"; };
+		843CEF811CA8BE3200456A01 /* ильин.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ильин.jpg"; sourceTree = "<group>"; };
+		843CEF821CA8BE3200456A01 /* обсе.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "обсе.jpg"; sourceTree = "<group>"; };
+		843CEF8B1CA8C6DA00456A01 /* нуртас.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "нуртас.jpg"; sourceTree = "<group>"; };
+		843CEF8C1CA8C6DA00456A01 /* гимн.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "гимн.jpg"; sourceTree = "<group>"; };
+		843CEF8D1CA8C6DA00456A01 /* баурсак.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "баурсак.jpg"; sourceTree = "<group>"; };
+		843CEF8E1CA8C6DA00456A01 /* масимов.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "масимов.jpg"; sourceTree = "<group>"; };
+		843CEF8F1CA8C6DA00456A01 /* шельпек.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "шельпек.jpg"; sourceTree = "<group>"; };
+		843CEF901CA8C6DA00456A01 /* герб.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "герб.jpg"; sourceTree = "<group>"; };
+		843CEF911CA8C6DA00456A01 /* шалап.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "шалап.jpg"; sourceTree = "<group>"; };
+		843CEF921CA8C6DA00456A01 /* курт.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "курт.jpg"; sourceTree = "<group>"; };
+		843CEF931CA8C6DA00456A01 /* ахметов.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ахметов.jpg"; sourceTree = "<group>"; };
+		843CEF941CA8C6DA00456A01 /* айран.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "айран.jpg"; sourceTree = "<group>"; };
+		843CEF951CA8C6DA00456A01 /* кеспе.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "кеспе.jpg"; sourceTree = "<group>"; };
+		843CEF961CA8C6DA00456A01 /* сорпа.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "сорпа.jpg"; sourceTree = "<group>"; };
+		843CEFA31CA8CD9D00456A01 /* шымкент.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "шымкент.jpg"; sourceTree = "<group>"; };
+		843CEFA41CA8CD9D00456A01 /* скот.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "скот.jpg"; sourceTree = "<group>"; };
+		843CEFA51CA8CD9D00456A01 /* бегельдинов.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "бегельдинов.jpg"; sourceTree = "<group>"; };
+		843CEFA61CA8CD9D00456A01 /* кунаев.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "кунаев.jpg"; sourceTree = "<group>"; };
+		843CEFA71CA8CD9D00456A01 /* маметова.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "маметова.jpg"; sourceTree = "<group>"; };
+		843CEFA81CA8CD9D00456A01 /* хан.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "хан.jpg"; sourceTree = "<group>"; };
+		843CEFA91CA8CD9D00456A01 /* чингисхан.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "чингисхан.jpg"; sourceTree = "<group>"; };
+		843CEFAA1CA8CD9D00456A01 /* сейфулин.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "сейфулин.jpg"; sourceTree = "<group>"; };
+		843CEFAB1CA8CD9D00456A01 /* юрта.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "юрта.jpg"; sourceTree = "<group>"; };
+		843CEFB51CA8CE3E00456A01 /* иманов.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "иманов.jpg"; sourceTree = "<group>"; };
+		843CEFB71CA8D2E100456A01 /* кенесары.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "кенесары.jpg"; sourceTree = "<group>"; };
+		843CEFBA1CA8D2E100456A01 /* кастеев.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "кастеев.jpg"; sourceTree = "<group>"; };
+		843CEFBB1CA8D2E100456A01 /* шанырак.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "шанырак.jpg"; sourceTree = "<group>"; };
+		843CEFBC1CA8D2E100456A01 /* кереге.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "кереге.jpg"; sourceTree = "<group>"; };
+		843CEFBE1CA8D2E100456A01 /* тюбетейка.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "тюбетейка.jpg"; sourceTree = "<group>"; };
+		843CEFBF1CA8D2E100456A01 /* сатпаев.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "сатпаев.jpg"; sourceTree = "<group>"; };
+		843CEFC01CA8D2E100456A01 /* ишим.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ишим.jpg"; sourceTree = "<group>"; };
+		843CEFC11CA8D2E100456A01 /* арал.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "арал.jpg"; sourceTree = "<group>"; };
+		843CEFCD1CA8D36100456A01 /* колбин.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "колбин.jpg"; sourceTree = "<group>"; };
+		843CEFCE1CA8D36100456A01 /* мавзолей.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "мавзолей.jpg"; sourceTree = "<group>"; };
+		843CEFCF1CA8D36100456A01 /* сталин.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "сталин.jpg"; sourceTree = "<group>"; };
+		843CEFD01CA8D36100456A01 /* туркестан.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "туркестан.jpg"; sourceTree = "<group>"; };
+		843CEFD51CA8E01F00456A01 /* наурыз.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "наурыз.jpg"; sourceTree = "<group>"; };
+		843CEFD61CA8E01F00456A01 /* пирамида.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "пирамида.jpg"; sourceTree = "<group>"; };
+		843CEFD71CA8E01F00456A01 /* пшеница.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "пшеница.jpg"; sourceTree = "<group>"; };
+		843CEFD81CA8E01F00456A01 /* трактор.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "трактор.jpg"; sourceTree = "<group>"; };
+		843CEFD91CA8E01F00456A01 /* махан.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "махан.jpg"; sourceTree = "<group>"; };
+		843CEFDA1CA8E01F00456A01 /* мост.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "мост.jpg"; sourceTree = "<group>"; };
+		843CEFDB1CA8E01F00456A01 /* армия.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "армия.jpg"; sourceTree = "<group>"; };
 		846309611C9BBB31009C8BD2 /* Kazakhstan Plus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kazakhstan Plus.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		846309651C9BBB31009C8BD2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		846309671C9BBB31009C8BD2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +200,16 @@
 		846309851C9BBB31009C8BD2 /* Kazakhstan PlusUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Kazakhstan PlusUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		846309891C9BBB31009C8BD2 /* Kazakhstan_PlusUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Kazakhstan_PlusUITests.m; sourceTree = "<group>"; };
 		8463098B1C9BBB31009C8BD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		846309991C9BBC6F009C8BD2 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
+		8463099A1C9BBC6F009C8BD2 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		8463099D1C9BBE5C009C8BD2 /* content.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = content.txt; sourceTree = "<group>"; };
+		8463431A1CA3EAA8007ABA34 /* CustomIOS7AlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomIOS7AlertView.h; sourceTree = "<group>"; };
+		8463431B1CA3EAA8007ABA34 /* CustomIOS7AlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomIOS7AlertView.m; sourceTree = "<group>"; };
+		847343CE1CA9E865000A84AF /* домбра.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "домбра.jpg"; sourceTree = "<group>"; };
+		84FEB4CB1CA4A50A004F9D63 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		84FEB4CD1CA4A56E004F9D63 /* StoreTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = StoreTableViewController.h; path = ../StoreTableViewController.h; sourceTree = "<group>"; };
+		84FEB4CE1CA4A56E004F9D63 /* StoreTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = StoreTableViewController.m; path = ../StoreTableViewController.m; sourceTree = "<group>"; };
+		84FEB4D01CA4A63F004F9D63 /* leftMenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = leftMenu.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +217,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84FEB4CC1CA4A50A004F9D63 /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,9 +238,97 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		843A19AD1CA7D642008A48C0 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				847343CE1CA9E865000A84AF /* домбра.jpg */,
+				843A19CE1CA7E70A008A48C0 /* абай.jpg */,
+				843A19C01CA7E6F8008A48C0 /* казахстан.jpg */,
+				843A19C11CA7E6F8008A48C0 /* медеу.jpg */,
+				843A19C21CA7E6F8008A48C0 /* президент.jpg */,
+				843A19C31CA7E6F8008A48C0 /* алматы.jpg */,
+				843A19C41CA7E6F8008A48C0 /* назарбаев.jpg */,
+				843A19C51CA7E6F8008A48C0 /* барыс.jpg */,
+				843A19C61CA7E6F8008A48C0 /* флаг.jpg */,
+				843CEF611CA8928600456A01 /* валиханов.jpg */,
+				843CEF621CA8928600456A01 /* асык.jpg */,
+				843CEF631CA8928600456A01 /* акын.jpg */,
+				843CEF641CA8928600456A01 /* жетыген.jpg */,
+				843CEF651CA8928600456A01 /* мечеть.jpg */,
+				843CEF661CA8928600456A01 /* джигит.jpg */,
+				843CEF671CA8928600456A01 /* курмангазы.jpg */,
+				843CEF681CA8928600456A01 /* байтерек.jpg */,
+				843CEF691CA8928600456A01 /* тенге.jpg */,
+				843CEF6A1CA8928600456A01 /* акорда.jpg */,
+				843CEF6B1CA8928600456A01 /* астана.jpg */,
+				843CEF6C1CA8928600456A01 /* байконур.jpg */,
+				843CEF6D1CA8928600456A01 /* кумыс.jpg */,
+				843CEF7B1CA8BE3200456A01 /* каспий.jpg */,
+				843CEF7C1CA8BE3200456A01 /* бурабай.jpg */,
+				843CEF7D1CA8BE3200456A01 /* алтай.jpg */,
+				843CEF7E1CA8BE3200456A01 /* бешбармак.jpg */,
+				843CEF7F1CA8BE3200456A01 /* молдагулова.jpg */,
+				843CEF801CA8BE3200456A01 /* алатау.jpg */,
+				843CEF811CA8BE3200456A01 /* ильин.jpg */,
+				843CEF821CA8BE3200456A01 /* обсе.jpg */,
+				843CEF8B1CA8C6DA00456A01 /* нуртас.jpg */,
+				843CEF8C1CA8C6DA00456A01 /* гимн.jpg */,
+				843CEF8D1CA8C6DA00456A01 /* баурсак.jpg */,
+				843CEF8E1CA8C6DA00456A01 /* масимов.jpg */,
+				843CEF8F1CA8C6DA00456A01 /* шельпек.jpg */,
+				843CEF901CA8C6DA00456A01 /* герб.jpg */,
+				843CEF911CA8C6DA00456A01 /* шалап.jpg */,
+				843CEF921CA8C6DA00456A01 /* курт.jpg */,
+				843CEF931CA8C6DA00456A01 /* ахметов.jpg */,
+				843CEF941CA8C6DA00456A01 /* айран.jpg */,
+				843CEF951CA8C6DA00456A01 /* кеспе.jpg */,
+				843CEF961CA8C6DA00456A01 /* сорпа.jpg */,
+				843CEFA31CA8CD9D00456A01 /* шымкент.jpg */,
+				843CEFA41CA8CD9D00456A01 /* скот.jpg */,
+				843CEFA51CA8CD9D00456A01 /* бегельдинов.jpg */,
+				843CEFA61CA8CD9D00456A01 /* кунаев.jpg */,
+				843CEFA71CA8CD9D00456A01 /* маметова.jpg */,
+				843CEFA81CA8CD9D00456A01 /* хан.jpg */,
+				843CEFA91CA8CD9D00456A01 /* чингисхан.jpg */,
+				843CEFAA1CA8CD9D00456A01 /* сейфулин.jpg */,
+				843CEFAB1CA8CD9D00456A01 /* юрта.jpg */,
+				843CEFB51CA8CE3E00456A01 /* иманов.jpg */,
+				843CEFB71CA8D2E100456A01 /* кенесары.jpg */,
+				843CEFBA1CA8D2E100456A01 /* кастеев.jpg */,
+				843CEFBB1CA8D2E100456A01 /* шанырак.jpg */,
+				843CEFBC1CA8D2E100456A01 /* кереге.jpg */,
+				843CEFBE1CA8D2E100456A01 /* тюбетейка.jpg */,
+				843CEFBF1CA8D2E100456A01 /* сатпаев.jpg */,
+				843CEFC01CA8D2E100456A01 /* ишим.jpg */,
+				843CEFC11CA8D2E100456A01 /* арал.jpg */,
+				843CEFCD1CA8D36100456A01 /* колбин.jpg */,
+				843CEFCE1CA8D36100456A01 /* мавзолей.jpg */,
+				843CEFCF1CA8D36100456A01 /* сталин.jpg */,
+				843CEFD01CA8D36100456A01 /* туркестан.jpg */,
+				843CEFD51CA8E01F00456A01 /* наурыз.jpg */,
+				843CEFD61CA8E01F00456A01 /* пирамида.jpg */,
+				843CEFD71CA8E01F00456A01 /* пшеница.jpg */,
+				843CEFD81CA8E01F00456A01 /* трактор.jpg */,
+				843CEFD91CA8E01F00456A01 /* махан.jpg */,
+				843CEFDA1CA8E01F00456A01 /* мост.jpg */,
+				843CEFDB1CA8E01F00456A01 /* армия.jpg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		843CEF601CA8644C00456A01 /* Reachability */ = {
+			isa = PBXGroup;
+			children = (
+				843663151CA5E0DA000AB17E /* Reachability.h */,
+				843663161CA5E0DA000AB17E /* Reachability.m */,
+			);
+			name = Reachability;
+			sourceTree = "<group>";
+		};
 		846309581C9BBB31009C8BD2 = {
 			isa = PBXGroup;
 			children = (
+				84FEB4CB1CA4A50A004F9D63 /* StoreKit.framework */,
 				846309631C9BBB31009C8BD2 /* Kazakhstan Plus */,
 				8463097D1C9BBB31009C8BD2 /* Kazakhstan PlusTests */,
 				846309881C9BBB31009C8BD2 /* Kazakhstan PlusUITests */,
@@ -101,14 +349,21 @@
 		846309631C9BBB31009C8BD2 /* Kazakhstan Plus */ = {
 			isa = PBXGroup;
 			children = (
+				843CEF601CA8644C00456A01 /* Reachability */,
+				846343191CA3EAA8007ABA34 /* Custom Alert */,
 				846309671C9BBB31009C8BD2 /* AppDelegate.h */,
 				846309681C9BBB31009C8BD2 /* AppDelegate.m */,
 				8463096A1C9BBB31009C8BD2 /* ViewController.h */,
 				8463096B1C9BBB31009C8BD2 /* ViewController.m */,
+				84FEB4CD1CA4A56E004F9D63 /* StoreTableViewController.h */,
+				84FEB4CE1CA4A56E004F9D63 /* StoreTableViewController.m */,
 				8463096D1C9BBB31009C8BD2 /* Main.storyboard */,
 				846309701C9BBB31009C8BD2 /* Assets.xcassets */,
 				846309721C9BBB31009C8BD2 /* LaunchScreen.storyboard */,
 				846309751C9BBB31009C8BD2 /* Info.plist */,
+				8463099D1C9BBE5C009C8BD2 /* content.txt */,
+				84FEB4D01CA4A63F004F9D63 /* leftMenu.png */,
+				843A19AD1CA7D642008A48C0 /* Images */,
 				846309641C9BBB31009C8BD2 /* Supporting Files */,
 			);
 			path = "Kazakhstan Plus";
@@ -138,6 +393,16 @@
 				8463098B1C9BBB31009C8BD2 /* Info.plist */,
 			);
 			path = "Kazakhstan PlusUITests";
+			sourceTree = "<group>";
+		};
+		846343191CA3EAA8007ABA34 /* Custom Alert */ = {
+			isa = PBXGroup;
+			children = (
+				8463431A1CA3EAA8007ABA34 /* CustomIOS7AlertView.h */,
+				8463431B1CA3EAA8007ABA34 /* CustomIOS7AlertView.m */,
+			);
+			name = "Custom Alert";
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,6 +472,7 @@
 				TargetAttributes = {
 					846309601C9BBB31009C8BD2 = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = U55Q33J358;
 					};
 					846309791C9BBB31009C8BD2 = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -223,7 +489,6 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				en,
 				Base,
 			);
 			mainGroup = 846309581C9BBB31009C8BD2;
@@ -243,9 +508,82 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				843A19CB1CA7E6F8008A48C0 /* назарбаев.jpg in Resources */,
+				843CEF861CA8BE3200456A01 /* бешбармак.jpg in Resources */,
+				843CEFAD1CA8CD9D00456A01 /* скот.jpg in Resources */,
+				843CEF781CA8928600456A01 /* астана.jpg in Resources */,
+				843A19CD1CA7E6F8008A48C0 /* флаг.jpg in Resources */,
+				843CEFC71CA8D2E100456A01 /* кереге.jpg in Resources */,
+				843CEFA21CA8C6DA00456A01 /* сорпа.jpg in Resources */,
+				843CEF6F1CA8928600456A01 /* асык.jpg in Resources */,
+				843CEF871CA8BE3200456A01 /* молдагулова.jpg in Resources */,
+				843CEFC21CA8D2E100456A01 /* кенесары.jpg in Resources */,
+				843CEFCC1CA8D2E100456A01 /* арал.jpg in Resources */,
+				8463099E1C9BBE5C009C8BD2 /* content.txt in Resources */,
 				846309741C9BBB31009C8BD2 /* LaunchScreen.storyboard in Resources */,
+				843CEFB61CA8CE3E00456A01 /* иманов.jpg in Resources */,
+				843CEF891CA8BE3200456A01 /* ильин.jpg in Resources */,
+				843CEFAE1CA8CD9D00456A01 /* бегельдинов.jpg in Resources */,
+				843CEFA11CA8C6DA00456A01 /* кеспе.jpg in Resources */,
 				846309711C9BBB31009C8BD2 /* Assets.xcassets in Resources */,
+				843CEFCB1CA8D2E100456A01 /* ишим.jpg in Resources */,
+				843CEF971CA8C6DA00456A01 /* нуртас.jpg in Resources */,
+				843CEFC91CA8D2E100456A01 /* тюбетейка.jpg in Resources */,
+				843CEF981CA8C6DA00456A01 /* гимн.jpg in Resources */,
+				843CEFE11CA8E01F00456A01 /* мост.jpg in Resources */,
+				843CEFB41CA8CD9D00456A01 /* юрта.jpg in Resources */,
+				843CEF881CA8BE3200456A01 /* алатау.jpg in Resources */,
+				843CEFD41CA8D36100456A01 /* туркестан.jpg in Resources */,
+				843CEF721CA8928600456A01 /* мечеть.jpg in Resources */,
+				843A19CC1CA7E6F8008A48C0 /* барыс.jpg in Resources */,
+				843CEF991CA8C6DA00456A01 /* баурсак.jpg in Resources */,
+				843CEF7A1CA8928600456A01 /* кумыс.jpg in Resources */,
+				843CEFDC1CA8E01F00456A01 /* наурыз.jpg in Resources */,
+				843CEFDF1CA8E01F00456A01 /* трактор.jpg in Resources */,
+				843A19CF1CA7E70A008A48C0 /* абай.jpg in Resources */,
+				843CEF9F1CA8C6DA00456A01 /* ахметов.jpg in Resources */,
+				843CEFE21CA8E01F00456A01 /* армия.jpg in Resources */,
+				843CEF6E1CA8928600456A01 /* валиханов.jpg in Resources */,
+				843CEFDE1CA8E01F00456A01 /* пшеница.jpg in Resources */,
+				843CEF761CA8928600456A01 /* тенге.jpg in Resources */,
+				843CEF9E1CA8C6DA00456A01 /* курт.jpg in Resources */,
+				843CEFAC1CA8CD9D00456A01 /* шымкент.jpg in Resources */,
+				843CEF701CA8928600456A01 /* акын.jpg in Resources */,
+				843CEFD21CA8D36100456A01 /* мавзолей.jpg in Resources */,
+				843CEF9B1CA8C6DA00456A01 /* шельпек.jpg in Resources */,
+				843CEF851CA8BE3200456A01 /* алтай.jpg in Resources */,
+				843CEF731CA8928600456A01 /* джигит.jpg in Resources */,
+				843CEF9A1CA8C6DA00456A01 /* масимов.jpg in Resources */,
+				843CEFD31CA8D36100456A01 /* сталин.jpg in Resources */,
+				843CEF741CA8928600456A01 /* курмангазы.jpg in Resources */,
+				843CEFDD1CA8E01F00456A01 /* пирамида.jpg in Resources */,
+				843CEFA01CA8C6DA00456A01 /* айран.jpg in Resources */,
+				843CEFB21CA8CD9D00456A01 /* чингисхан.jpg in Resources */,
 				8463096F1C9BBB31009C8BD2 /* Main.storyboard in Resources */,
+				843CEFE01CA8E01F00456A01 /* махан.jpg in Resources */,
+				843CEF8A1CA8BE3200456A01 /* обсе.jpg in Resources */,
+				843CEFB11CA8CD9D00456A01 /* хан.jpg in Resources */,
+				843CEFAF1CA8CD9D00456A01 /* кунаев.jpg in Resources */,
+				843CEFB31CA8CD9D00456A01 /* сейфулин.jpg in Resources */,
+				843CEF831CA8BE3200456A01 /* каспий.jpg in Resources */,
+				843CEFD11CA8D36100456A01 /* колбин.jpg in Resources */,
+				843CEF9D1CA8C6DA00456A01 /* шалап.jpg in Resources */,
+				843A19C81CA7E6F8008A48C0 /* медеу.jpg in Resources */,
+				843CEFB01CA8CD9D00456A01 /* маметова.jpg in Resources */,
+				843CEF791CA8928600456A01 /* байконур.jpg in Resources */,
+				843CEF751CA8928600456A01 /* байтерек.jpg in Resources */,
+				843CEF9C1CA8C6DA00456A01 /* герб.jpg in Resources */,
+				843CEFC61CA8D2E100456A01 /* шанырак.jpg in Resources */,
+				843A19C91CA7E6F8008A48C0 /* президент.jpg in Resources */,
+				843CEF711CA8928600456A01 /* жетыген.jpg in Resources */,
+				84FEB4D11CA4A63F004F9D63 /* leftMenu.png in Resources */,
+				843CEF771CA8928600456A01 /* акорда.jpg in Resources */,
+				843A19C71CA7E6F8008A48C0 /* казахстан.jpg in Resources */,
+				843CEF841CA8BE3200456A01 /* бурабай.jpg in Resources */,
+				847343CF1CA9E865000A84AF /* домбра.jpg in Resources */,
+				843A19CA1CA7E6F8008A48C0 /* алматы.jpg in Resources */,
+				843CEFC51CA8D2E100456A01 /* кастеев.jpg in Resources */,
+				843CEFCA1CA8D2E100456A01 /* сатпаев.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,7 +610,10 @@
 			files = (
 				8463096C1C9BBB31009C8BD2 /* ViewController.m in Sources */,
 				846309691C9BBB31009C8BD2 /* AppDelegate.m in Sources */,
+				84FEB4CF1CA4A56E004F9D63 /* StoreTableViewController.m in Sources */,
 				846309661C9BBB31009C8BD2 /* main.m in Sources */,
+				843663171CA5E0DA000AB17E /* Reachability.m in Sources */,
+				8463431C1CA3EAA8007ABA34 /* CustomIOS7AlertView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +653,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				8463096E1C9BBB31009C8BD2 /* Base */,
+				846309991C9BBC6F009C8BD2 /* ru */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -320,6 +662,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				846309731C9BBB31009C8BD2 /* Base */,
+				8463099A1C9BBC6F009C8BD2 /* ru */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -363,7 +706,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -401,7 +744,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -413,10 +756,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Kazakhstan Plus/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.maximpuchkov.Kazakhstan-Plus";
+				PRODUCT_BUNDLE_IDENTIFIER = com.maximpuchkov.kz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -424,10 +772,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Kazakhstan Plus/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.maximpuchkov.Kazakhstan-Plus";
+				PRODUCT_BUNDLE_IDENTIFIER = com.maximpuchkov.kz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -498,6 +851,7 @@
 				846309901C9BBB31009C8BD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		846309911C9BBB31009C8BD2 /* Build configuration list for PBXNativeTarget "Kazakhstan PlusTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +860,7 @@
 				846309931C9BBB31009C8BD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		846309941C9BBB31009C8BD2 /* Build configuration list for PBXNativeTarget "Kazakhstan PlusUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +869,7 @@
 				846309961C9BBB31009C8BD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
